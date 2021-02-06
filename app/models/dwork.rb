@@ -1,2 +1,0 @@
-class Dwork < ApplicationRecord
-end
