@@ -1,0 +1,2 @@
+class Dwork < ApplicationRecord
+end

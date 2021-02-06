@@ -1,0 +1,11 @@
+<div class="contents row">
+  <% @dworks.each do |dwork| %>
+    
+      <p><%= dwork.hakenmoto %></p>
+      <span class="name">
+        <%= dwork.genba_name %>
+      </span>
+      <p><%= dwork.text %></p>
+    </div>
+  <% end %>
+</div>
