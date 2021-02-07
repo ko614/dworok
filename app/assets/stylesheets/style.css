@@ -1,0 +1,30 @@
+.title{
+  background-color: yellow;
+}
+
+.contents{
+  background-color: yellow;
+  padding: 100px;
+  margin-bottom: 60px;
+  text-align: center;
+  color:white;
+  font-size:10px;
+}
+
+
+.grid-6{
+  background-color: yellow;
+}
+
+.name{
+  background-color: yellow;
+  font-size: large;
+}
+
+.fixed-bottom{
+  margin: 50%;
+}
+
+.daimei{
+  color: red;
+}
